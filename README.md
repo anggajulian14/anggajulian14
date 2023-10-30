@@ -1,16 +1,13 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**anggajulian14/anggajulian14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Gilang Ramadhan**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa Teknik Informatika** di **Politeknik Negeri Jember**.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya tertarik dengan dunia **Artificial Intelligence** khususnya pada bidang **Computer Vision**.<br>
+
+Saya juga tertarik dengan pengembangan **Aplikasi Mobile**.<br>
+
+Saya juga memiliki gelar **Junior Mobile Programmer** dari BNSP sejak September 2023.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/anggajulian14/)ku ya.
